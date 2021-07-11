@@ -21,7 +21,7 @@ Gui, Add, Text, x30 y+5, "F4" red machine gun
 Gui, Add, Text, x30 y+5, "F5" havoc
 Gui, Add, Text, x30 y+5, "F6" ProwlerSelect
 Gui, Add, Text, x30 y+5, "F7" Volt
-Gui, Add, Text, x30 y+5, "F8" Flatline
+Gui, Add, Text, x30 y+5, "F8" Flatline(improved)
 Gui, Add, Text, x30 y+5, "F9" Spitfire (improved)/Scout
 Gui, Add, Text, x30 y+5, "F10" Lstar
 Gui, Add, Text, x30 y+5,  "F11" Devotion
